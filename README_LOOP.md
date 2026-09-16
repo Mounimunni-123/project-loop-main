@@ -55,43 +55,6 @@ Evidence-backed Decisions
 | 🖼️ Screenshots | `loop/docs/screenshots/` |
 | ⚙️ Environment Template | `loop/.env.example` |
 
----
-
-# 🖥️ Product Preview
-
-## Login
-
-![Login](loop/docs/screenshots/01-login.png)
-
-## Dashboard
-
-![Dashboard](loop/docs/screenshots/02-dashboard.png)
-
-## Feedback Inbox
-
-![Feedback Inbox](loop/docs/screenshots/03-inbox.png)
-
-## Themes
-
-![Themes](loop/docs/screenshots/04-themes.png)
-
-## Trends
-
-![Trends](loop/docs/screenshots/05-trends.png)
-
-## Ask LOOP
-
-![Ask LOOP](loop/docs/screenshots/06-ask-loop.png)
-
-## Voice-of-Customer Report
-
-![Voice-of-Customer Report](loop/docs/screenshots/07-voc-report.png)
-
-## Admin / Members
-
-![Admin Members](loop/docs/screenshots/08-admin-members.png)
-
----
 
 # 🎯 What is LOOP?
 
