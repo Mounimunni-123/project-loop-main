@@ -32,6 +32,10 @@ next-env.d.ts
 
 # Prisma local databases
 *.db
+<<<<<<< HEAD
 *.db-journal
 /scripts/node_modules/
 /services/lib/
+=======
+*.db-journal
+>>>>>>> origin/main
