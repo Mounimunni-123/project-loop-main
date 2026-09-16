@@ -33,3 +33,5 @@ next-env.d.ts
 # Prisma local databases
 *.db
 *.db-journal
+/scripts/node_modules/
+/services/lib/
