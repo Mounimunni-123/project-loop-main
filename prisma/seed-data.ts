@@ -7,21 +7,21 @@ export const DEMO_WORKSPACE = {
 
 export const DEMO_USERS = [
   {
-    name: "Goutam",
+    name: "Munni",
     email: "admin@loop.demo",
     role: UserRole.ADMIN,
     passwordEnvironmentKey: "SEED_ADMIN_PASSWORD",
     defaultPassword: "LoopAdmin!2026",
   },
   {
-    name: "Gaurav",
+    name: "bhaskar",
     email: "analyst@loop.demo",
     role: UserRole.ANALYST,
     passwordEnvironmentKey: "SEED_ANALYST_PASSWORD",
     defaultPassword: "LoopAnalyst!2026",
   },
   {
-    name: "mohan",
+    name: "raj",
     email: "viewer@loop.demo",
     role: UserRole.VIEWER,
     passwordEnvironmentKey: "SEED_VIEWER_PASSWORD",
